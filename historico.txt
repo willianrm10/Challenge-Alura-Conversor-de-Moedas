@@ -1,0 +1,15 @@
+Conversão de: ARS para USD
+Valor a ser convertido: $ 34,80
+Resultado da Conversão: $ 0,04
+Data e Hora da Conversão: 23/05/2024 18:58:45
+
+Conversão de: USD para ARS
+Valor a ser convertido: $ 132,00
+Resultado da Conversão: $ 114147,00
+Data e Hora da Conversão: 23/05/2024 18:58:55
+
+Conversão de: ARS para USD
+Valor a ser convertido: $ 23,00
+Resultado da Conversão: $ 0,03
+Data e Hora da Conversão: 23/05/2024 18:59:23
+
