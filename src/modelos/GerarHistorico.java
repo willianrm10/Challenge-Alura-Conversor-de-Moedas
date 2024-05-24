@@ -4,7 +4,7 @@ import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Historico {
+public class GerarHistorico {
 
     public static void registrarNoHistorico(String siglaMoedaOrigem, String siglaMoedaDestino, double valor, double resultado, String simboloMoedaOrigem, String simboloMoedaDestino) {
         SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
@@ -47,5 +47,4 @@ public class Historico {
             System.out.println("Não existe arquivo historico.txt ou não há nenhuma conversão a ser mostrada.");
         }
     }
-
 }

@@ -13,3 +13,28 @@ Valor a ser convertido: $ 23,00
 Resultado da Conversão: $ 0,03
 Data e Hora da Conversão: 23/05/2024 18:59:23
 
+Conversão de: USD para BRL
+Valor a ser convertido: $ 100,00
+Resultado da Conversão: R$ 514,85
+Data e Hora da Conversão: 24/05/2024 19:05:04
+
+Conversão de: USD para BRL
+Valor a ser convertido: $ 100,00
+Resultado da Conversão: R$ 514,85
+Data e Hora da Conversão: 24/05/2024 19:08:39
+
+Conversão de: USD para BRL
+Valor a ser convertido: $ 100,00
+Resultado da Conversão: R$ 514,85
+Data e Hora da Conversão: 24/05/2024 19:14:43
+
+Conversão de: BRL para EUR
+Valor a ser convertido: R$ 100,00
+Resultado da Conversão: € 17,95
+Data e Hora da Conversão: 24/05/2024 19:15:53
+
+Conversão de: EUR para BRL
+Valor a ser convertido: € 100,00
+Resultado da Conversão: R$ 557,14
+Data e Hora da Conversão: 24/05/2024 19:16:02
+

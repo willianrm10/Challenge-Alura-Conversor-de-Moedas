@@ -1,27 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fec3737-433b-49a4-ac61-68348eeaa869" name="Changes" comment="" />
+    <list default="true" id="9fec3737-433b-49a4-ac61-68348eeaa869" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConversorMoedas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ConversorMoedas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/historico.txt" beforeDir="false" afterPath="$PROJECT_DIR$/historico.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelos/ConsoleColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelos/ConsoleColors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelos/ConversorMoedas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelos/ConversorMoedas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelos/GerarHistorico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelos/GerarHistorico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelos/SiglaMoedaEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelos/SiglaMoedaEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelos/SimboloMoedaEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelos/SimboloMoedaEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/principal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/principal/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "willianrm10"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/willianrm10/ChallengeAluraConversordeMoedas.git",
+    "accountId": "09d33bdc-7965-4edc-915b-24749ba57d3d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2gm47r5knOIwId7ffM2E4Uow41t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Willian/OneDrive/Cursos 2024/Curso ONE- Alura/Especilalizacao back end/ChallengeAlluraDesafio1/ConversorMoedas/src/modelos&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Willian/OneDrive/Cursos 2024/Curso ONE- Alura/Especilalizacao back end/ChallengeAlluraDesafio1/ConversorMoedas/src/br/com/alura/challenge/conversorMoedas/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Willian\OneDrive\Cursos 2024\Curso ONE- Alura\Especilalizacao back end\ChallengeAlluraDesafio1\ConversorMoedas\src\modelos" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="modelos" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="principal.Main" />
+      <module name="ConversorMoedas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

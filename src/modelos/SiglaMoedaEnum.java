@@ -1,17 +1,20 @@
 package modelos;
 
-public enum SiglaMoeda {
+public enum SiglaMoedaEnum {
+    ARS("Peso Argentino"),
     BRL("Real brasileiro"),
+    EUR("Euro"),
+    GBP("Libra Esterlina"),
+    JPY("Iene - Japão"),
     USD("Dólar Americano");
 
-    private String descricao;
+    private String descricaoMoeda;
 
-    SiglaMoeda(String descricao){
-        this.descricao = descricao;
+    SiglaMoedaEnum(String descricaoMoeda){
+        this.descricaoMoeda = descricaoMoeda;
     }
 
-    public String getDescricao(){
-        return descricao;
+    public String getDescricaoMoeda(){
+        return this.descricaoMoeda;
     }
-
 }
